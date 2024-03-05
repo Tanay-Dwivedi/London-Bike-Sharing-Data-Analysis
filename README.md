@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-The task is to analyze the London Bike Sharing dataset to uncover insights into bike usage patterns and factors affecting bike rental counts. The dataset includes information such as time of observation, bike count, weather conditions, temperature, humidity, wind speed, and season.
+The task is to **analyze** the **London Bike Sharing dataset** to uncover insights into bike usage patterns and factors affecting bike rental counts. The dataset includes information such as **time** of observation, **bike count**, **weather conditions**, **temperature**, **humidity**, **wind speed**, and **season**.
 
 -----
 
